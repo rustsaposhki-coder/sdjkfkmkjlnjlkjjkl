@@ -17,7 +17,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import CallbackQuery, FSInputFile, InlineKeyboardButton, InlineKeyboardMarkup
 from playwright.async_api import Page, async_playwright
 
-BOT_TOKEN = "8632626214:AAGir8gK1l2AeSb12PywC-iiaWN7XPLtUNA"
+BOT_TOKEN = "8556283064:AAEWuuabtgwC5lZP-xj27LBNN18YI6yjx6k"
 MAIN_ADMIN_ID = 8038099276
 TARGET_URL = "https://web.max.ru"
 QR_SELECTOR = "div.qr > svg[viewBox='0 0 4059 4059']"
